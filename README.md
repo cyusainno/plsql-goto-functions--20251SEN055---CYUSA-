@@ -1,1 +1,2 @@
 
+Through this exercise, I gained a better understanding of the GOTO statement and labels in PL/SQL. I learned how GOTO can transfer execution to a specific label and how it can work with IF statements to make decisions, I also discovered that GOTO cannot move execution into a nested block. This helped me understand its limitations. Although GOTO is useful for controlling program flow, I learned that it should be used carefully to keep programs simple, clear, and easy to maintain.
