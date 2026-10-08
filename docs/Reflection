@@ -1,1 +1,8 @@
 REFLECTION
+I practiced using the GOTO statement and labels in PL/SQL. 
+In my first program, GOTO jumped to a label  
+My second program failed with error PLS-00201 because the label was inside a nested block,
+which showed me that GOTO cannot jump into another block.
+I then used IF with GOTO to classify a student's mark as pass or fail, and temperature as hot, cold, or normal.
+I learned that GOTO controls program flow, but it should be used carefully because it can make code harder to read and maintain.
+
